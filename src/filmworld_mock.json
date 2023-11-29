@@ -1,0 +1,82 @@
+[
+  {
+    "Title": "I Love You, Beth Cooper",
+    "Year": "2009",
+    "imdbID": "tt1032815",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyNTc2NDM3NF5BMl5BanBnXkFtZTcwNjU3Mzg0Mg@@._V1_SX300.jpg",
+    "Price": "13.99"
+  },
+  {
+    "Title": "For Love of the Game",
+    "Year": "1999",
+    "imdbID": "tt0126916",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDgzY2NkMTgtODQwZC00MWEzLWFlZjQtZTcxOTc3NzU1MDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Price": "14.99"
+  },
+  {
+    "Title": "Love Story",
+    "Year": "1970",
+    "imdbID": "tt0066011",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFjYWU1MGQtM2FiMi00YjA3LWIwYjUtZDdhYWEyOWFhZGE0XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+    "Price": "12.99"
+  },
+  {
+    "Title": "Modern Love",
+    "Year": "2019–2021",
+    "imdbID": "tt8543390",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzg4ZmYyMDMtOWU2NS00MzE2LWJkYzktY2Q0MDM1ZGNhMDQxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Price": "15.50"
+  },
+  {
+    "Title": "All the Boys Love Mandy Lane",
+    "Year": "2006",
+    "imdbID": "tt0490076",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzM0MjU1MzUzMF5BMl5BanBnXkFtZTcwMjcwNDQyOQ@@._V1_SX300.jpg",
+    "Price": "11.20"
+  },
+  {
+    "Title": "Love Happens",
+    "Year": "2009",
+    "imdbID": "tt0899106",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1ODc4NjkyOF5BMl5BanBnXkFtZTcwMTA1MjU2Mg@@._V1_SX300.jpg",
+    "Price": "13.75"
+  },
+  {
+    "Title": "Must Love Dogs",
+    "Year": "2005",
+    "imdbID": "tt0417001",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU0ODA0NTM1OF5BMl5BanBnXkFtZTcwODE0MTkyMQ@@._V1_SX300.jpg",
+    "Price": "14.00"
+  },
+  {
+    "Title": "Love & Death",
+    "Year": "2023",
+    "imdbID": "tt14586350",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGRhYmU2YWEtNThlMi00ZmQ4LWFiYTQtYjM0NDM3YTRlZmUxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "Price": "12.50"
+  },
+  {
+    "Title": "I Love Lucy",
+    "Year": "1951–1957",
+    "imdbID": "tt0043208",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDhhN2Y1NzMtNGVlZS00MTNjLWIxN2ItYzJiN2ZhMTc2OGIwXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Price": "13.30"
+  },
+  {
+    "Title": "A Love Song for Bobby Long",
+    "Year": "2004",
+    "imdbID": "tt0369672",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGEyZDhlYTUtYTdmMS00NDVhLThiZWItMDIyYjRlZDYzODgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Price": "14.99"
+  }
+]
